@@ -45,3 +45,35 @@ figure img {
     width: 200px;
     height: 15px;
     }
+
+/* nuevo*/
+
+.post .contact form .input-group input[type="text"] {
+    background: #ebebeb;
+    border: 0;
+    outline: 0;
+    height: 50px;
+    border-radius: 5px;
+    padding: 0 15px;
+    font-size: 16px;
+}
+.post .contact form .input-group textarea {
+    background: #ebebeb;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 16px;
+}
+.post .contact form .post {
+    width: 100%;
+    background: #3eb3a5;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+ div{
+            margin-bottom: 1em;
+        }
